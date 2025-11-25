@@ -23,3 +23,14 @@ The model trains using a sample dataset and prints accuracy when run.
 ## 🚀 How to Run
 
 ### Install dependencies
+
+
+### Run the detector
+
+Then enter any URL:
+
+## 📦 Project Files
+
+
+
+
